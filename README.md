@@ -2,10 +2,11 @@
 # Repo dari Kelompok A09 FP Komnum
 
 ## Anggota:
-1. **Malvin Jonathan** (5025241238)  
-2. **Rasya Nur Aqilla** (5025241239)  
-3. **Naufal Fadhlil Wafi** (5025241246)  
-4. **Mohammad Najib Bahrudin** (5025241230)
+1. <b><span style="color:darkblue;">Malvin Jonathan</span></b> (5025241238) <!-- kamu -->
+2. Rasya Nur Aqilla (5025241239)  
+3. Naufal Fadhlil Wafi (5025241246)  
+4. Mohammad Najib Bahrudin (5025241230)
+
 
 
 ### Rumus Metode Secant  
